@@ -1,9 +1,3 @@
-./dist/
-./src/symspell_rs.egg-info/
-./target/
-./Cargo.lock/
-./Cargo.toml/
-./poetry.lock/
-./venv3/
-./symspell_rs/
-./setup.py/
+target/
+Cargo.lock
+poetry.lock
