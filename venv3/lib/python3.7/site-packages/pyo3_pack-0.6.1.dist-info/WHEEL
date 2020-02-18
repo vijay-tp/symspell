@@ -1,0 +1,5 @@
+Wheel-Version: 1.0
+Generator: pyo3-pack (0.6.1)
+Root-Is-Purelib: false
+Tag: py2-none-manylinux1_x86_64
+Tag: py3-none-manylinux1_x86_64

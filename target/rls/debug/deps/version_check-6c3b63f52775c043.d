@@ -1,0 +1,10 @@
+/home/local/ZOHOCORP/vijay-8682/Downloads/symspell/target/rls/debug/deps/version_check-6c3b63f52775c043.rmeta: /home/local/ZOHOCORP/vijay-8682/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.1/src/lib.rs /home/local/ZOHOCORP/vijay-8682/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.1/src/version.rs /home/local/ZOHOCORP/vijay-8682/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.1/src/channel.rs /home/local/ZOHOCORP/vijay-8682/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.1/src/date.rs
+
+/home/local/ZOHOCORP/vijay-8682/Downloads/symspell/target/rls/debug/deps/libversion_check-6c3b63f52775c043.rlib: /home/local/ZOHOCORP/vijay-8682/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.1/src/lib.rs /home/local/ZOHOCORP/vijay-8682/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.1/src/version.rs /home/local/ZOHOCORP/vijay-8682/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.1/src/channel.rs /home/local/ZOHOCORP/vijay-8682/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.1/src/date.rs
+
+/home/local/ZOHOCORP/vijay-8682/Downloads/symspell/target/rls/debug/deps/version_check-6c3b63f52775c043.d: /home/local/ZOHOCORP/vijay-8682/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.1/src/lib.rs /home/local/ZOHOCORP/vijay-8682/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.1/src/version.rs /home/local/ZOHOCORP/vijay-8682/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.1/src/channel.rs /home/local/ZOHOCORP/vijay-8682/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.1/src/date.rs
+
+/home/local/ZOHOCORP/vijay-8682/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.1/src/lib.rs:
+/home/local/ZOHOCORP/vijay-8682/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.1/src/version.rs:
+/home/local/ZOHOCORP/vijay-8682/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.1/src/channel.rs:
+/home/local/ZOHOCORP/vijay-8682/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.1/src/date.rs:
