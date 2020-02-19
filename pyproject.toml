@@ -17,5 +17,5 @@ python = "^3.7"
 pytest = "^5.2"
 
 [build-system]
-requires = ["setuptools_rust","poetry>=0.12","pyo3-pack",]
-build-backend = "poetry.masonry.api"
+requires = ["setuptools_rust","poetry>=0.12","pyo3-pack>=0.7.0-beta.1"]
+build-backend = "pyo3_pack"
