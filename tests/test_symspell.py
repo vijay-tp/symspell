@@ -20,4 +20,4 @@ def test_models():
     print(f"String->{seg_obj.segmented_string} \n Distance->{seg_obj.distance_sum} \n Prob_Log_Sum->{seg_obj.prob_log_sum}")
     # print(time.time()-start)
     assert 1 == 1
-# test_models()
+test_models()
