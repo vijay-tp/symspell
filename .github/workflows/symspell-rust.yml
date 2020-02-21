@@ -16,6 +16,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
+        rustup install nightly
         pip install cargo
         cargo build 
         pip install .
