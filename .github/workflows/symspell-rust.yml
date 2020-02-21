@@ -16,7 +16,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        curl https://sh.rustup.rs -sSf | sh
+        curl https://sh.rustup.rs -sSf >tmp | sh tmp -y
         cargo build
         cargo develop
         pip install . 
