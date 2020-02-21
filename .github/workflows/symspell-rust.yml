@@ -18,7 +18,7 @@ jobs:
         python -m pip install --upgrade pip
         curl https://sh.rustup.rs -sSf >tmp | sh tmp -y
         rustup install nightly
-        rustup override set nightly
+        rustup default nightly
         cargo build
         pip install . 
     - name: Lint with flake8
