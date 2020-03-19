@@ -12,6 +12,7 @@ packages = [{ include = "symspell_rust", from="src"},]
 
 [tool.poetry.dependencies]
 python = "^3.7"
+pymagnitude = "^0.1.120"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
