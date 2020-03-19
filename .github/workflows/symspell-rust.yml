@@ -20,6 +20,7 @@ jobs:
         rustup install nightly
         rustup default nightly
         cargo build
+        pip install pymagnitude
         pip install . 
     - name: Lint with flake8
       run: |
